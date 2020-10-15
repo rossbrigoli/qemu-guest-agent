@@ -1,7 +1,7 @@
 # About this Repo
 
-clone from https://github.com/pfremm/qemu-guest-agent
+Forked from jerryhan77/qemu-guest-agent.
 
-Run Qemu Guest Agent as docker container.
+Run Qemu Guest Agent as containers on Openshift.
 
-Deploy to OCP4 RHCOS node as DaemonSet.
+Deploy to OCP4 RHCOS/FCOS node as DaemonSet.
